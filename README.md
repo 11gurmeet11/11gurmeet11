@@ -1,38 +1,30 @@
 <h1 align="center">Hi 👋, I'm Gurmeet Kaur</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></br>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gurmeet11&label=Profile%20views&color=0e75b6&style=flat" alt="gurmeet11" /> 
-</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gurmeet11" alt="gurmeet11" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
-
-- 🌱 I’m currently learning **log analysis, threat detection, and incident response. I’m passionate about defending systems from cyber threats and actively exploring hands-on labs, certifications, and real-world scenarios to prepare for a career as a SOC Analyst**
+- 🚀 Passionate about safeguarding digital environments with a strong foundation in cybersecurity principles, ethical hacking, and network defense. Currently gaining hands-on experience in areas like threat analysis, incident response, and security operations. Skilled in using industry-standard tools such as Wireshark, Splunk, and SIEM platforms. Continuously learning to stay ahead of evolving cyber threats and committed to building secure and resilient systems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gurmeet11](https://github.com/gurmeet11)
 
-- 📫 How to reach me **gurmeet11kour@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gurmeet-kaur-464a4b305" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmeet-kaur-464a4b305" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@gurmeet11kour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gurmeet11kour" height="30" width="40" />
-  </a>
 </p>
 
+## 👑 Trophy 👑  
+<div>    
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=11gurmeet11&theme=algolia&column=-1&rank=-?"></a>
+</div>
+
+<div align=center>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -85,6 +77,9 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurmeet11&show_icons=true&locale=en" alt="gurmeet11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurmeet11&" alt="gurmeet11" /></p>
+## ⚡ Git Stats ⚡
+<div >
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11gurmeet11&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/RamonLarcherRibeiro">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=11gurmeet11&theme=algolia">
+</div>
