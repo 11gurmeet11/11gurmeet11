@@ -21,8 +21,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gurmeet11](https://github.com/gurmeet11)
 
-- 💬 Ask me about **cybersecurity, SOC analysis, and incident response**
-
 - 📫 How to reach me **gurmeet11kour@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
