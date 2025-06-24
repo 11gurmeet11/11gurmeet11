@@ -9,8 +9,6 @@
 
 - 🚀 Passionate about safeguarding digital environments with a strong foundation in cybersecurity principles, ethical hacking, and network defense. Currently gaining hands-on experience in areas like threat analysis, incident response, and security operations. Skilled in using industry-standard tools such as Wireshark, Splunk, and SIEM platforms. Continuously learning to stay ahead of evolving cyber threats and committed to building secure and resilient systems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/gurmeet11](https://github.com/gurmeet11)
-
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gurmeet-kaur-464a4b305" target="blank">
