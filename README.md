@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 👑 Trophy 👑  
+## • Trophy 
 <div>    
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=11gurmeet11&theme=algolia&column=-1&rank=-?"></a>
 </div>
