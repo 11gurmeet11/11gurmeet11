@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gurmeet Kaur</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Gurmeet Kaur</h1>
 
+<a href="https://github.com/11gurmmeet11?tab=followers"><img src="https://img.shields.io/github/followers/11gurmeet11?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
@@ -7,16 +11,16 @@
 </picture></br>
 
 
-- 🚀 Passionate about safeguarding digital environments with a strong foundation in cybersecurity principles, ethical hacking, and network defense. Currently gaining hands-on experience in areas like threat analysis, incident response, and security operations. Skilled in using industry-standard tools such as Wireshark, Splunk, and SIEM platforms. Continuously learning to stay ahead of evolving cyber threats and committed to building secure and resilient systems.
+- 🚀Passionate about safeguarding digital environments with a strong foundation in cybersecurity principles, ethical hacking, and network defense. Currently gaining hands-on experience in areas like threat analysis, incident response, and security operations. Skilled in using industry-standard tools such as Wireshark, Splunk, and SIEM platforms. Continuously learning to stay ahead of evolving cyber threats and committed to building secure and resilient systems.
 
-- <h3 align="left">Connect with me:</h3>
+- <h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gurmeet-kaur-464a4b305" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmeet-kaur-464a4b305" height="30" width="40" />
   </a>
 </p>
 
-## • Trophy 
+##  Trophy 
 <div>    
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=11gurmeet11&theme=algolia&column=-1&rank=-?"></a>
 </div>
