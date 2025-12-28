@@ -14,17 +14,3 @@
 </picture></br>
 
 ###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:11gurmeet11?theme=yousa-ling&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11gurmeet11/11gurmeet11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/11gurmeet11/11gurmeet11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/11gurmeet11/11gurmeet11/output/pacman-contribution-graph.svg">
-</picture>
-
-###
