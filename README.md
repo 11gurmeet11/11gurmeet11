@@ -62,13 +62,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-<p align="center">
-  <b> ⚫ Security tools</b><br/>
-  <img src="https://img.shields.io/badge/Metasploit-1E1E1E?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Ghidra-1E90FF?style=flat-square&logo=reverse&logoColor=white" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Wireshark-0066CC?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
 
 ---
 ## 🏅 𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌 & 𝖼𝗋𝖾𝖽𝖾𝗇𝗍𝗂𝖺𝗅𝗌
@@ -115,5 +108,6 @@
 ## 🔗 𝖢𝗈𝗇𝗇𝖾𝖼𝗍
 - GitHub: https://github.com/11gurmeet11   
 - LinkedIn: www.linkedin.com/in/gurmeet-kaur-464a4b305
+
 
 
