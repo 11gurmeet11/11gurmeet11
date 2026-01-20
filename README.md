@@ -106,9 +106,5 @@
 ---
 
 ## 🔗 𝖢𝗈𝗇𝗇𝖾𝖼𝗍
-- GitHub: https://github.com/11gurmeet11   
-- LinkedIn: www.linkedin.com/in/gurmeet-kaur-464a4b305
 
-
-
-
+<a href="https://www.linkedin.com/in/gurmeet-kaur-464a4b305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/11gurmeet11" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
