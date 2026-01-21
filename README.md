@@ -67,11 +67,11 @@
 ## 🏅 𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌 & 𝖼𝗋𝖾𝖽𝖾𝗇𝗍𝗂𝖺𝗅𝗌
 
 <p align="center">
-  <a href="https://https://www.netacad.com//programs/certified-ethical-hacker/" target="_blank">
+  <a href="https://www.credly.com/badges/e2f6b2d0-7c60-4db6-a29d-d70cc7097645/public_url" target="_blank">
     <img src="https://img.shields.io/badge/Certified-Ethical%20Hacker%20(CEH)-darkgreen?style=for-the-badge&logo=security&logoColor=white" alt="CEH Certificate" />
   </a>
   &nbsp;
-  <a href="https://www.ibm.com/training/badge" target="_blank">
+  <a href="https://www.credly.com/badges/a466c3f0-ee15-4e0b-a223-13a63c8417a7" target="_blank">
     <img src="https://img.shields.io/badge/IBM-Cyber%20Security%20Professional-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cyber Security" />
   </a>
 </p>
@@ -108,3 +108,4 @@
 ## 🔗 𝖢𝗈𝗇𝗇𝖾𝖼𝗍
 
 <a href="https://www.linkedin.com/in/gurmeet-kaur-464a4b305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/11gurmeet11" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
